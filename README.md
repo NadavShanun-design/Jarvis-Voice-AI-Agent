@@ -203,6 +203,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Note**: This is a personal AI assistant project. Please use responsibly and be mindful of privacy and security considerations when using voice recognition technology.
 
-**Current Status**: ✅ Core functionality working, ✅ Text mode available, ⚠️ Voice mode requires PyAudio installation on some systems
