@@ -195,11 +195,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
 
-- OpenAI for providing the ChatGPT API
-- Google for Speech Recognition services
-- The open-source community for the various Python libraries used
 
 ---
 
